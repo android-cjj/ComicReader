@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="generic_server_down">链接超时</string>
+    <string name="generic_error">服务器错误</string>
+    <string name="no_internet">网络错误</string>
+</resources>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:id="@+id/ll_loading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tv_page"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="12"
+            android:textStyle="bold"
+            android:textColor="#ff8c00"
+            android:textSize="70sp" />
+
+        <!--
+             <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp" >
+
+           
+             <ProgressBar
+            android:id="@+id/circularProgress1"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_gravity="center"
+            android:indeterminateDrawable="@drawable/custom_pb_big" />
+        -->
+
+        <com.github.lzyzsd.circleprogress.ArcProgress
+            xmlns:custom="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/arc_progress"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+            custom:arc_bottom_text=""
+            custom:arc_finished_color="#ff8c00"
+            custom:arc_text_color="#ff8c00"
+            custom:arc_unfinished_color="#20ff8c00" />
+        <!-- </FrameLayout> -->
+
+        <TextView
+            android:id="@+id/tv_tip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="Tip:点击图片中间，弹出菜单哦^_^"
+            android:textColor="#ff8c00"
+            android:textSize="12sp" />
+    </LinearLayout>
+
+    <uk.co.senab.photoview.PhotoView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/iv_photo"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scaleType="centerInside" />
+
+</FrameLayout>

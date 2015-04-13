@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+     android:background="@drawable/imagecorner"
+     android:padding="10dp"
+    android:orientation="vertical" >
+    
+    <com.cjj.staggeredgridview.STGVImageView
+        android:scaleType="fitXY"
+        android:id="@+id/iv_home_comic" 
+        android:padding="0.5dp"
+        android:background="#f3f3f3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+    <com.romainpiel.shimmer.ShimmerTextView
+        android:id="@+id/tv_title_home"
+        android:textSize="14sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="2dp"
+        android:background="#10000000"
+        android:layout_gravity="bottom"
+        android:gravity="center_horizontal"
+        android:textColor="#ff8c00"
+        />
+
+</FrameLayout>

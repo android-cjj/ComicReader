@@ -1,0 +1,4 @@
+int raw large_jpeg_1024_500 0x7f020000
+int string generic_error 0x7f030001
+int string generic_server_down 0x7f030000
+int string no_internet 0x7f030002

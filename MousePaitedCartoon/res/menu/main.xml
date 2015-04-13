@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.cjj.mousepaitedcartoon.MainActivity" >
+    
+    <item
+        android:id="@+id/action_edit"
+        android:icon="@drawable/main_bottom_book"
+        android:orderInCategory="80"
+        android:title="book"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/action_share"
+        android:icon="@drawable/main_bottom_book_hover"
+        android:orderInCategory="90"
+        android:title="book2"
+        app:showAsAction="ifRoom"/>
+ <!--    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="setting"
+        app:showAsAction="never"/> -->
+
+</menu>

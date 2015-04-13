@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <!--
+         <com.handmark.pulltorefresh.library.PullToRefreshListView
+        		xmlns:cjj="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/plv"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:fadingEdge="none"
+                cjj:ptrAnimationStyle="flip"
+                android:layout_weight="1"
+                android:divider="@drawable/list_divider_line"
+                android:cacheColorHint="@android:color/transparent"
+                />
+    -->
+
+    <include layout="@layout/toobar" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <com.handmark.pulltorefresh.library.PullToRefreshStaggeredGridView
+            xmlns:cjj="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/ptrstgv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fadingEdge="none"
+            cjj:ptrAnimationStyle="flip" />
+
+        <LinearLayout
+            android:id="@+id/view_line"
+            android:visibility="gone"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/transparent"
+            android:orientation="horizontal" />
+        
+         <!-- <include layout="@layout/add_button"></include> -->
+    </FrameLayout>
+    
+
+</LinearLayout>

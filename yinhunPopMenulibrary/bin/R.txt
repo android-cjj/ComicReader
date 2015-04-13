@@ -1,0 +1,30 @@
+int attr childSize 0x7f010002
+int attr fromDegrees 0x7f010000
+int attr leftHolderWidth 0x7f010003
+int attr toDegrees 0x7f010001
+int drawable composer_button 0x7f020000
+int drawable composer_button_normal 0x7f020001
+int drawable composer_button_pressed 0x7f020002
+int drawable composer_icn_plus 0x7f020003
+int drawable composer_icn_plus_normal 0x7f020004
+int drawable composer_icn_plus_pressed 0x7f020005
+int drawable onivas_fab_circle 0x7f020006
+int drawable rounded_button_shadow 0x7f020007
+int id control_hint 0x7f050002
+int id control_layout 0x7f050001
+int id item_layout 0x7f050000
+int layout arc_menu 0x7f030000
+int layout ray_menu 0x7f030001
+int raw chooser_close 0x7f040000
+int raw chooser_open 0x7f040001
+int raw chooser_select 0x7f040002
+int[] styleable ArcLayout { 0x7f010000, 0x7f010001, 0x7f010002 }
+int styleable ArcLayout_childSize 2
+int styleable ArcLayout_fromDegrees 0
+int styleable ArcLayout_toDegrees 1
+int[] styleable ArcMenu { 0x7f010000, 0x7f010001, 0x7f010002 }
+int styleable ArcMenu_childSize 2
+int styleable ArcMenu_fromDegrees 0
+int styleable ArcMenu_toDegrees 1
+int[] styleable RayLayout { 0x7f010003 }
+int styleable RayLayout_leftHolderWidth 0

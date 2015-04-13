@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/control_layout"
+    android:layout_width="56dp"
+    android:layout_height="56dp"
+    android:layout_margin="20dp"
+    android:layout_centerInParent="true"
+    android:clickable="true"
+    android:layout_gravity="bottom|right"
+    android:background="@drawable/add_drawable" >
+
+    <ImageView
+        android:id="@+id/control_hint"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:duplicateParentState="true"
+        android:src="@drawable/composer_icn_plus" />
+
+</FrameLayout>

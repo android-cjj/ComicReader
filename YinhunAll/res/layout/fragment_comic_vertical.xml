@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff" >
+
+    <com.cjj.cartoon.custom.HackyViewPager
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/vp_comic"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+    </com.cjj.cartoon.custom.HackyViewPager>
+  <!--   
+     <ListView
+        android:id="@+id/list_comic"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="#000000"
+        android:dividerHeight="3dp"
+        android:drawSelectorOnTop="false"
+        android:focusable="true"
+        android:scrollbars="none"
+        android:listSelector="#00000000" />  -->
+
+    <RelativeLayout
+        android:id="@+id/rl_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|left"
+        android:background="@drawable/title_corner"
+        android:gravity="center" >
+
+        <com.romainpiel.shimmer.ShimmerTextView
+            android:id="@+id/tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="4dp"
+            android:textColor="#ffffff" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_time_battery"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|right"
+        android:background="@drawable/rl_corner"
+        android:gravity="center" >
+
+        <TextView
+            android:id="@+id/tv_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="4dp"
+            android:textColor="#ffffff" />
+
+        <ImageView
+            android:id="@+id/iv_battery"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="2dp"
+            android:layout_marginTop="5dp"
+            android:layout_toRightOf="@+id/tv_time"
+            android:src="@drawable/battery_4" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_shaonv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical" >
+
+       <!--  <ImageView
+            android:id="@+id/imageView_load"
+            android:layout_width="100dip"
+            android:layout_height="100dip"
+            android:layout_gravity="center"
+            android:background="@anim/frame_loading" /> -->
+         <ImageView
+                        android:id="@+id/imageView_load"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                       android:background="@anim/loading"
+                     />
+
+        <com.romainpiel.shimmer.ShimmerTextView
+            android:id="@+id/shimmer_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:paddingLeft="4dp"
+            android:layout_marginTop="4dp"
+            android:text="稍等一下下"
+            android:textColor="#202020"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+</FrameLayout>

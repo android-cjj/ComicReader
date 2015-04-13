@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:id="@+id/ll_loading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tv_page"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="12"
+            android:textColor="#ff8c00"
+            android:textSize="50sp" />
+
+        <ProgressBar
+            android:id="@+id/circularProgress1"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="10dp"
+            android:indeterminateDrawable="@drawable/custom_pb_big" />
+    </LinearLayout>
+
+    <uk.co.senab.photoview.PhotoView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/iv_photo"
+        android:layout_width="fill_parent"
+        android:layout_height="1150dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/pic_bg" />
+
+</FrameLayout>

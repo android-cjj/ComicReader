@@ -1,0 +1,3 @@
+int string generic_error 0x7f020001
+int string generic_server_down 0x7f020000
+int string no_internet 0x7f020002

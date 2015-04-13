@@ -1,0 +1,7 @@
+int attr reflectionColor 0x7f010000
+int drawable ic_launcher 0x7f020000
+int drawable mask 0x7f020001
+int drawable spot_mask 0x7f020002
+int string app_name 0x7f030000
+int[] styleable ShimmerView { 0x7f010000 }
+int styleable ShimmerView_reflectionColor 0

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <color name="pb_red">#FFC93437</color>
+    <color name="pb_blue">#FF375BF1</color>
+    <color name="pb_yellow">#FFF7D23E</color>
+    <color name="pb_green">#FF34A350</color>
+    <color name="pb_org">#ff8c00</color>
+    
+       <color name="transparent">#00FFFFFF</color>
+      
+</resources>

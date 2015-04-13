@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:paddingLeft="32dp"
+    android:paddingRight="32dp"
+    android:layout_gravity="center"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:id="@+id/material_background"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/material_card"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/contentView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:textColor="#DE000000"
+                android:textSize="23sp"
+                android:id="@+id/title"
+                android:text="Material title"
+                android:layout_marginLeft="23dp"
+                android:layout_marginTop="23dp"
+                android:layout_marginRight="24dp"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"/>
+
+            <LinearLayout
+                android:id="@+id/message_content_view"
+                android:layout_marginLeft="24dp"
+                android:layout_marginRight="23dp"
+                android:layout_marginBottom="14dp"
+                android:layout_marginTop="20dp"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/message"
+                    android:textColor="#202020"
+                    android:textSize="16sp"
+                    android:lineSpacingMultiplier="1.3"
+                    android:text="message"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/buttonLayout"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/empty_view"
+                android:layout_width="wrap_content"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

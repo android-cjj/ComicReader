@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_reload"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#90000000"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/iv_reloading"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="8dp"
+        android:gravity="center"
+        android:src="@drawable/tableview_loading" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="@string/reload_msging"
+        android:textColor="#ff8c00"
+        android:textSize="12sp" />
+
+</LinearLayout>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/community_title_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="60dip"
+    android:layout_alignParentBottom="true"
+    android:background="#202020"
+    android:paddingBottom="3dip"
+    android:paddingTop="3dip" >
+
+    <RadioGroup
+        android:layout_below="@+id/tab_deve2"
+        android:id="@+id/rd_bottom_bar_menu"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_centerVertical="true"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <RadioButton
+            android:id="@+id/rbtn_one"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:button="@null"
+            android:checked="true"
+            android:drawablePadding="2.0dip"
+            android:drawableTop="@drawable/bottom_bar_menu_manhua"
+            android:gravity="center_horizontal"
+            android:paddingLeft="0dip"
+            android:text="@string/tab_manhua"
+            android:textColor="@color/selector_rbtn_menu_txt"
+            android:textSize="14.0sp"
+            android:textStyle="normal" />
+
+        <RadioButton
+            android:id="@+id/rbtn_two"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:button="@null"
+            android:drawablePadding="-2.0dip"
+            android:drawableTop="@drawable/bottom_bar_menu_manhua"
+            android:gravity="center"
+            android:paddingLeft="0dip"
+            android:text="@string/tab_fenglei"
+            android:textColor="@color/selector_rbtn_menu_txt"
+            android:textSize="14.0sp"
+            android:textStyle="normal" />
+
+        <RadioButton
+            android:id="@+id/rbtn_three"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:button="@null"
+            android:drawablePadding="-2.0dip"
+            android:drawableTop="@drawable/bottom_bar_menu_manhua"
+            android:gravity="center"
+            android:paddingLeft="0dip"
+            android:text="@string/tab_sousuo"
+            android:textColor="@color/selector_rbtn_menu_txt"
+            android:textSize="14.0sp"
+            android:textStyle="normal" />
+
+        <RadioButton
+            android:id="@+id/rbtn_four"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:button="@null"
+            android:drawablePadding="-2.0dip"
+            android:drawableTop="@drawable/bottom_bar_menu_manhua"
+            android:gravity="center"
+            android:paddingLeft="0dip"
+            android:text="@string/tab_wode"
+            android:textColor="@color/selector_rbtn_menu_txt"
+            android:textSize="14.0sp"
+            android:textStyle="normal" />
+    </RadioGroup>
+
+</RelativeLayout>

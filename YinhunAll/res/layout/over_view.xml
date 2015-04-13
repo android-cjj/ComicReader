@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_over"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/targetimagecorner"
+    android:orientation="horizontal"
+    >
+    
+
+    <ImageView
+        android:id="@+id/iv_target"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="fitXY" />
+
+    <ImageView
+        android:id="@+id/iv_target2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="fitXY" />
+
+    <com.romainpiel.shimmer.ShimmerTextView
+        android:id="@+id/tv_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="#40000000"
+        android:ellipsize="end"
+        android:gravity="center"
+        android:lines="3"
+        android:text="火影忍者中文网"
+        android:textColor="#ff8c00"
+        android:textSize="12sp" />
+<!--  <View 
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_alignParentTop="true"
+        android:background="#ffffff"
+        /> -->
+
+         <View 
+        android:layout_width="match_parent"
+        android:layout_height="4dp"
+        android:layout_alignParentBottom="true"
+        android:background="#ffffff"
+        />
+
+</RelativeLayout>

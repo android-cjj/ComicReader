@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">  
+    <!-- 因为是自定义的控件，所以必须是包名点类名，否则系统找不到此控件  -->  
+    <com.cjj.cartoon.custom.BrightnessPreference
+        android:key="brightness"  
+        android:dialogIcon="@drawable/app"  
+        android:title="亮度设置"  
+    />  
+</PreferenceScreen>  

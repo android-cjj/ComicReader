@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10.0dip"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/corner"
+        android:orientation="vertical"
+        android:padding="12.0dip" >
+
+        <ImageView
+            android:id="@+id/list_item_image"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/image_corner"
+            android:padding="1dp"
+            android:scaleType="centerCrop" />
+        <!--
+        <TextView
+            android:id="@+id/list_item_title"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/list_item_image"
+            android:ellipsize="end"
+            android:maxLines="3"
+            android:minLines="2"
+            android:text="aaaaaaaaaaaaaaaaaaaaaa"
+            android:textColor="#202020"
+            android:textIsSelectable="false"
+            android:textSize="14sp"
+            android:padding="2dp"
+            android:textStyle="bold" />
+        -->
+
+        <View
+            android:layout_marginTop="10dp"
+            android:background="#f5f5f5"
+            android:layout_width="match_parent"
+            android:layout_height="1dp" />
+
+        <com.romainpiel.shimmer.ShimmerTextView
+            android:id="@+id/list_item_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="2dp"
+            android:ellipsize="end"
+            android:maxLines="2"
+            android:minLines="2"
+            android:paddingLeft="4dp"
+            android:paddingRight="4dp"
+            android:text="aaaaaaaaaaaaaaaaaaaaaa"
+            android:textColor="#adadad"
+            android:textIsSelectable="false"
+            android:textSize="13sp" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="reload_msg">点击重新加载</string>
+     <string name="reload_msging">重新加载中...</string>
+	<string name="no_data">空空如也</string>
+	 <string name="load_msg">更新中</string>
+</resources>
