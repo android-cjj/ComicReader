@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="bin7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/YinHunPullToRefreshViewPager/bin/pulltorefreshviewpager.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinHunPullToRefreshViewPager/bin/yinhunpulltorefreshviewpager.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

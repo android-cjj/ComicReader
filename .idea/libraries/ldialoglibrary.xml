@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ldialoglibrary">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/LDialogLibrary/bin/ldialoglibrary.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

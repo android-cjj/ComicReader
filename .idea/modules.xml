@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LDialogLibrary/LDialogLibrary.iml" filepath="$PROJECT_DIR$/LDialogLibrary/LDialogLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MousePaitedCartoon/MousePaitedCartoon.iml" filepath="$PROJECT_DIR$/MousePaitedCartoon/MousePaitedCartoon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MousePaitedLibrary/MousePaitedLibrary.iml" filepath="$PROJECT_DIR$/MousePaitedLibrary/MousePaitedLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MousePaitedVolleyLibrary/MousePaitedVolleyLibrary.iml" filepath="$PROJECT_DIR$/MousePaitedVolleyLibrary/MousePaitedVolleyLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YinHunCircleProgressLibrary/YinHunCircleProgressLibrary.iml" filepath="$PROJECT_DIR$/YinHunCircleProgressLibrary/YinHunCircleProgressLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YinHunListViewAnimationsLibrary/YinHunListViewAnimationsLibrary.iml" filepath="$PROJECT_DIR$/YinHunListViewAnimationsLibrary/YinHunListViewAnimationsLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YinHunLoadingViewLibrary/YinHunLoadingViewLibrary.iml" filepath="$PROJECT_DIR$/YinHunLoadingViewLibrary/YinHunLoadingViewLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YinHunPullToRefreshViewPager/YinHunPullToRefreshViewPager.iml" filepath="$PROJECT_DIR$/YinHunPullToRefreshViewPager/YinHunPullToRefreshViewPager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YinHunPulltoRefreshLibrary/YinHunPulltoRefreshLibrary.iml" filepath="$PROJECT_DIR$/YinHunPulltoRefreshLibrary/YinHunPulltoRefreshLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YinhunAll/YinhunAll.iml" filepath="$PROJECT_DIR$/YinhunAll/YinhunAll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YinhunCroutonLibrary/YinhunCroutonLibrary.iml" filepath="$PROJECT_DIR$/YinhunCroutonLibrary/YinhunCroutonLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YinhunPhotoViewLibrary/YinhunPhotoViewLibrary.iml" filepath="$PROJECT_DIR$/YinhunPhotoViewLibrary/YinhunPhotoViewLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YinhunStaggeredGridViewLirbrary/YinhunStaggeredGridViewLirbrary.iml" filepath="$PROJECT_DIR$/YinhunStaggeredGridViewLirbrary/YinhunStaggeredGridViewLirbrary.iml" />
+      <module fileurl="file://D:/java/java1.7.67/jre/jre.iml" filepath="D:/java/java1.7.67/jre/jre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MousePaitedVolleyLibrary/tests/tests.iml" filepath="$PROJECT_DIR$/MousePaitedVolleyLibrary/tests/tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yinhunPopMenulibrary/yinhunPopMenulibrary.iml" filepath="$PROJECT_DIR$/yinhunPopMenulibrary/yinhunPopMenulibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yinhunProgressNumberLibrary/yinhunProgressNumberLibrary.iml" filepath="$PROJECT_DIR$/yinhunProgressNumberLibrary/yinhunProgressNumberLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yinhunShimmerLibrary/yinhunShimmerLibrary.iml" filepath="$PROJECT_DIR$/yinhunShimmerLibrary/yinhunShimmerLibrary.iml" />
+    </modules>
+  </component>
+</project>
+

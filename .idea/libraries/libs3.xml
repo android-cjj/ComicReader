@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="libs3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/YinhunAll/libs/picasso-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinhunAll/libs/jsoup-1.7.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinhunAll/libs/universal-image-loader-1.9.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinhunAll/libs/jsoup-1.7.3-javadoc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

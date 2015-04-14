@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="bin3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/YinHunLoadingViewLibrary/bin/yinhunloadingviewlibrary.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinHunLoadingViewLibrary/bin/loadingviewlibrary.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

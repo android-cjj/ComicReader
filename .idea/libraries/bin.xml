@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="bin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/YinHunCircleProgressLibrary/bin/yinhuncircleprogresslibrary.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinHunCircleProgressLibrary/bin/main.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

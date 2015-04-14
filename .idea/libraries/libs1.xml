@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="libs1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/YinHunListViewAnimationsLibrary/libs/nineoldandroids-2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinHunListViewAnimationsLibrary/libs/stickylistheaders_lib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,45 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/YinhunAll/bin/dexedLibs/mousepaitedlibrary-8f48a0e7d0c605f3500259a6a954e263.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinhunAll/bin/dexedLibs/jsoup-1.7.3-ee8e87ac197a33abe75bb0470f9cd6f7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinhunAll/bin/dexedLibs/yinhuncircleprogresslibrary-92d5141cf8472c86e98161a6c143d0ce.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinhunAll/bin/dexedLibs/gson-2.2.4-e46e184eb460190385bcbefb1955017b.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinhunAll/bin/dexedLibs/android-support-v4-1b273d2d3c33ed5c6787eef747cfd610.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinhunAll/bin/dexedLibs/cjj-recylerview-9bf2f9268ec2c9262c789a38a14c85c9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinhunAll/bin/dexedLibs/ldialoglibrary-b8672c3a600bcdbad0bb27f770e10115.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinhunAll/bin/dexedLibs/yinhunloadingviewlibrary-3e0dea7542493a0c1f38a9a458b9e961.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinhunAll/bin/dexedLibs/jsoup-1.7.3-javadoc-c701f2b26a183d567d2d841df44ee2cc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinhunAll/bin/dexedLibs/jsoup-1.7.3-javadoc-ae4332b9f830c207334c062928b5d131.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinhunAll/bin/dexedLibs/yinhuncroutonlibrary-e8a0fc366a9486e5b51202aef8ea43f7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinhunAll/bin/dexedLibs/yinhunshimmerlibrary-f412eb0d639f04e6ed340037acd86631.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinhunAll/bin/dexedLibs/android-support-v7-appcompat-323f3c4d985dbb611bc3ce11cf449c83.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinhunAll/bin/dexedLibs/mousepaitedlibrary-c81fa96bfc56df66979ce2abc4c8eb4a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinhunAll/bin/dexedLibs/mousepaitedvolleylibrary-6c8b0a74d820889722287ce9d3c5bf77.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinhunAll/bin/dexedLibs/yinhuncroutonlibrary-86a68be284cac69fc7dab12519db26cc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinhunAll/bin/dexedLibs/yinhunpopmenulibrary-404a50b906ad3301faf55274c799b423.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinhunAll/bin/dexedLibs/universal-image-loader-1.9.3-f043717a312877460dba0de72b1b3b69.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinhunAll/bin/dexedLibs/mousepaitedvolleylibrary-62c6aeef21b191299fb042281b7ba655.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinhunAll/bin/dexedLibs/yinhunpopmenulibrary-88f7c97486fcb1614741cba4260500c4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinhunAll/bin/dexedLibs/jsoup-1.7.3-0d4a02b4508aedd1849e02a1feb2433a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinhunAll/bin/dexedLibs/universal-image-loader-1.9.3-1d58f2a02f3bd985938d9e75d3644662.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinhunAll/bin/dexedLibs/yinhunphotoviewlibrary-7d14b5ec8cb78da85ffdf51ff7792f11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinhunAll/bin/dexedLibs/android-support-v4-525772430dc9170cff3841d52bed7149.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinhunAll/bin/dexedLibs/gson-2.2.4-46689dcd8f28328741162f09fdbe8971.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinhunAll/bin/dexedLibs/android-support-v7-appcompat-13a86e56b9c026f136446a25ec174abf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinhunAll/bin/dexedLibs/yinhunloadingviewlibrary-b6bf434c43ca7b474de68c53119c3bbc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinhunAll/bin/dexedLibs/yinhuncircleprogresslibrary-66068b42141d5fa7fe30f30cd3c8ddd3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinhunAll/bin/dexedLibs/picasso-2.0.0-307864e57840e5790cb6cf6aec699bba.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinhunAll/bin/dexedLibs/ldialoglibrary-5ecefefea97736d2d5aabef04996cda1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinhunAll/bin/dexedLibs/yinhunphotoviewlibrary-4d6a731f86a72b41a1e466fce2088387.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinhunAll/bin/dexedLibs/yinhunshimmerlibrary-648b10a78f6fe6172f7ed471591a804e.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinhunAll/bin/dexedLibs/yinhunpulltorefreshlibrary-300fb8d782cd0d80b614df443b726c45.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinhunAll/bin/dexedLibs/yinhunpulltorefreshlibrary-5b70179b79f23e1c91c17d2cd521ab64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinhunAll/bin/dexedLibs/cjj-recylerview-a7c6ea04c41c54da9d171110677427cf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinhunAll/bin/dexedLibs/picasso-2.0.0-93e744076d96b99e182515d459b01b40.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinhunAll/bin/dexedLibs/yinhunpulltorefreshviewpager-11e2dc6a458f758e51fbb0502d13e108.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

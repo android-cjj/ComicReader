@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="bin2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/YinhunCroutonLibrary/bin/copy of croutonlibrary.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinhunCroutonLibrary/bin/croutonlibrary.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinhunCroutonLibrary/bin/yinhuncroutonlibrary.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinhunCroutonLibrary/bin/main.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

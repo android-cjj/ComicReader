@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="bin5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/YinhunStaggeredGridViewLirbrary/bin/staggeredgridview-master.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinhunStaggeredGridViewLirbrary/bin/yinhuistaggeredgridviewlirbrary.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinhunStaggeredGridViewLirbrary/bin/yinhunstaggeredgridviewlirbrary.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

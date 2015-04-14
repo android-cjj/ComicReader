@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="bin1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/YinhunPhotoViewLibrary/bin/yinhunphotoviewlibrary.jar!/" />
+      <root url="jar://$PROJECT_DIR$/YinhunPhotoViewLibrary/bin/photoviewlibrary.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

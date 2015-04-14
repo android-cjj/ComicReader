@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="bin4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/yinhunShimmerLibrary/bin/main.jar!/" />
+      <root url="jar://$PROJECT_DIR$/yinhunShimmerLibrary/bin/yinhunshimmerlibrary.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

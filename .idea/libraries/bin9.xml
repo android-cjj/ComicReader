@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="bin9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/yinhunPopMenulibrary/bin/yinhunpopmenulibrary.jar!/" />
+      <root url="jar://$PROJECT_DIR$/yinhunPopMenulibrary/bin/library.jar!/" />
+      <root url="jar://$PROJECT_DIR$/yinhunPopMenulibrary/bin/popmenulibrary.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

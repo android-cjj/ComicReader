@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="bin6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/yinhunProgressNumberLibrary/bin/yinhunprogressnumberlibrary.jar!/" />
+      <root url="jar://$PROJECT_DIR$/yinhunProgressNumberLibrary/bin/main.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

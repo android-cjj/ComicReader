@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="bin10">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MousePaitedVolleyLibrary/bin/mousepaitedvolleylibrary.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MousePaitedVolleyLibrary/bin/volleylibrary.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="libs2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MousePaitedLibrary/libs/android-support-v7-appcompat.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MousePaitedLibrary/libs/android-support-v4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MousePaitedLibrary/libs/cjj-recylerview.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

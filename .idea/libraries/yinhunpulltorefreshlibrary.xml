@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="yinhunpulltorefreshlibrary">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/YinHunPulltoRefreshLibrary/bin/yinhunpulltorefreshlibrary.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
