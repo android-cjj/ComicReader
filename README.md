@@ -17,8 +17,6 @@
 
 ![](http://www.apkbus.com/data/attachment/forum/201504/14/091617mrzhr7drk88lnrnj.png)
 
-![](http://www.apkbus.com/data/attachment/forum/201504/14/093155orusmdwujmva4uvw.png)
-
 ![](http://www.apkbus.com/data/attachment/forum/201504/14/091640p2s5002phhs77xiv.png)
 
 ![](http://www.apkbus.com/data/attachment/forum/201504/14/091537gqhoshqqqz7azqao.png)
@@ -33,6 +31,7 @@
 
 ![](http://www.apkbus.com/data/attachment/forum/201504/14/091540f6556yzcbp5byz3v.png)
 
+![](http://www.apkbus.com/data/attachment/forum/201504/14/093155orusmdwujmva4uvw.png)
 
 ![](http://www.apkbus.com/data/attachment/forum/201504/13/170714xfxlkml1zom6crfc.gif)
 
