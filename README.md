@@ -1,5 +1,9 @@
-# 漫画阅读器 ComicReader
-===========================================================
+ 漫画阅读器 ComicReader
+==================
+这个是作者刚学android练手的作品，开发工具是eclipse，已经没有在维护了。最近被http://gank.io/网站推荐...又开始有些朋友star了，z这么说吧，可以学习到的地方就是怎样整合众多的第三方开源库...比较适合新手....
+---------------------------------------------------------------------------------------------------
+
+
 说明
 ----------------------------------------------------------------------------------
    大学期间一直喜欢看漫画，很多时候不能在电脑前看，就会下载漫画app在手机上看，那时候就想做个ComicReader App ,可惜自己什么都不会，呵呵。
@@ -36,6 +40,30 @@
 ![](http://www.apkbus.com/data/attachment/forum/201504/13/170714xfxlkml1zom6crfc.gif)
 
  
+License
+=======
+
+    The MIT License (MIT)
+
+	Copyright (c) 2015 android-cjj
+
+	Permission is hereby granted, free of charge, to any person obtaining a copy
+	of this software and associated documentation files (the "Software"), to deal
+	in the Software without restriction, including without limitation the rights
+	to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+	copies of the Software, and to permit persons to whom the Software is
+	furnished to do so, subject to the following conditions:
+
+	The above copyright notice and this permission notice shall be included in all
+	copies or substantial portions of the Software.
+
+	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+	IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+	FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+	AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+	LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+	OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+	SOFTWARE.
 
 
 
